@@ -1,0 +1,4 @@
+DEFV(VFDIV  , exec_fsu_symmeric, VFDIV ,)
+DEFV(VFDIV  , exec_fsu_symmeric, VFDIV ,)
+DEFV(VFSQRT  , exec_fsu_asymmeric, VFADD ,)
+DEFV( SVE-FDIV, exec_fsu_asymmeric, VFADDV ,)
